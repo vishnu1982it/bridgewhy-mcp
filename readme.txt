@@ -9,3 +9,20 @@ How to run the setup:
 2. Run grok using windows powershell
 3. Open chatgpt open a new chat and add the app or connector you build.
 4. while configuring chatgpt connectore, use no auth. change.
+
+
+
+Below is suggested by chatgpt
+# BridgeWhy MCP Network Automation
+
+Prototype demonstrating the future of computer networking:
+Natural language → MCP → network device configuration.
+
+## Features
+- MCP server with SSE
+- Netmiko-based device control
+- ChatGPT integration
+- Declarative IP configuration
+
+## Demo
+Used in the "Future of Computer Networking" video on BridgeWhy.
