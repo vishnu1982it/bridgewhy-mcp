@@ -8,4 +8,4 @@ How to run the setup:
 1. run mcp server from vscode itself.
 2. Run grok using windows powershell
 3. Open chatgpt open a new chat and add the app or connector you build.
-4. while configuring chatgpt connectore, use no auth.
+4. while configuring chatgpt connectore, use no auth. change.
